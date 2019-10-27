@@ -1,6 +1,8 @@
 n = input("Please Enter Number: ")
 print(n)
+print("合計")
 print(int(0.5*int(n)*(int(n)+1)))
+print("累乗")
 print(int(n)*int(n))
 
 
